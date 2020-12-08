@@ -1,5 +1,3 @@
-// IOANNA MARIA PAPAVASILEIOU, 9375, 6972055333, ipapavas@ece.auth.gr
-// AIKATERINI PATSOURA , 9496, 6983582369, aikpatste@ece.auth.gr
 
 //KLASH BOARD
 public class Board {
